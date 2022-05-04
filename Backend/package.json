@@ -1,19 +1,12 @@
 {
-  "name": "backend",
+  "name": "ense701",
   "version": "1.0.0",
-  "description": "Backend for SPEED project",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Daniel-Kathiresan/ENSE701-Team4.git"
-  },
-  "author": "Daniel Kathiresan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Daniel-Kathiresan/ENSE701-Team4/issues"
-  },
-  "homepage": "https://github.com/Daniel-Kathiresan/ENSE701-Team4#readme"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
